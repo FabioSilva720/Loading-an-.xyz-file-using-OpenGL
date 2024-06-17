@@ -1,0 +1,13 @@
+﻿  Main.cpp
+c:\users\fabio\desktop\trabalho_pratico\trabalho_pratico\trabalho_pratico\loadshaders.h(3): warning C4005: '_DEBUG': macro redefinition
+  c:\users\fabio\desktop\trabalho_pratico\trabalho_pratico\trabalho_pratico\main.cpp: note: see previous definition of '_DEBUG'
+c:\users\fabio\desktop\trabalho_pratico\trabalho_pratico\trabalho_pratico\main.cpp(217): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\fabio\desktop\trabalho_pratico\trabalho_pratico\trabalho_pratico\main.cpp(261): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\fabio\desktop\trabalho_pratico\trabalho_pratico\trabalho_pratico\main.cpp(278): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\fabio\desktop\trabalho_pratico\trabalho_pratico\trabalho_pratico\main.cpp(279): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\fabio\desktop\trabalho_pratico\trabalho_pratico\trabalho_pratico\main.cpp(283): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\fabio\desktop\trabalho_pratico\trabalho_pratico\trabalho_pratico\main.cpp(284): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\fabio\desktop\trabalho_pratico\trabalho_pratico\trabalho_pratico\main.cpp(285): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\fabio\desktop\trabalho_pratico\trabalho_pratico\trabalho_pratico\main.cpp(286): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\fabio\desktop\trabalho_pratico\trabalho_pratico\trabalho_pratico\main.cpp(313): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  Trabalho_Pratico.vcxproj -> C:\Users\fabio\Desktop\Trabalho_Pratico\Trabalho_Pratico\x64\Debug\Trabalho_Pratico.exe
